@@ -1,0 +1,3 @@
+V	261130210257Z		57A049CD03C206206444927893C9B50E60E9A63D	unknown	/C=IT/ST=Italy/O=Politecnico di Torino/CN=Elio/emailAddress=elio@magliari.com
+V	241130210534Z		57A049CD03C206206444927893C9B50E60E9A63E	unknown	/C=IT/ST=Italy/O=Politecnico di Torino/CN=Anuar/emailAddress=anuar@magliari.com
+V	241130220229Z		57A049CD03C206206444927893C9B50E60E9A63F	unknown	/C=IT/ST=Italy/O=Politecnico di Torino/CN=Oile/emailAddress=elio@elio.elio
