@@ -1,0 +1,110 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: alekos interrante polito Flex license: MDK Professional 5.36 (Flex) (mdk_pro) Operation stops: 10 Mar 2024
+ 
+Tool Versions:
+Toolchain:       MDK Professional 5.36 (Flex)  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DARMP1.DLL V1.27.0.0
+Target DLL:      UL2CM3.DLL V1.164.0.0
+Dialog DLL:      TARMP1.DLL V1.26.0.0
+ 
+<h2>Project:</h2>
+C:\Users\alein\Desktop\architetture\extrapoint\2\extrapoint2\sample.uvprojx
+Project File Date:  01/26/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+compiling system_LPC17xx.c...
+compiling IRQ_button.c...
+assembling startup_LPC17xx.s...
+compiling core_cm3.c...
+compiling lib_timer.c...
+compiling AsciiLib.c...
+compiling sample.c...
+compiling lib_joystick.c...
+compiling funct_joystick.c...
+compiling lib_button.c...
+compiling IRQ_timer.c...
+timer\IRQ_timer.c(41): warning:  #223-D: function "sprintf" declared implicitly
+  					sprintf(time_in_char,"%4d",time_turn);
+timer\IRQ_timer.c(54): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+  								delay_s(1,box2X + 5, boxY + 30,(uint8_t *)"timeout");
+timer\IRQ_timer.c(67): warning:  #223-D: function "sprintf" declared implicitly
+  						sprintf(time_in_char,"%4d",time_turn);
+timer\IRQ_timer.c: 3 warnings, 0 errors
+compiling funct_led.c...
+compiling IRQ_RIT.c...
+RIT\IRQ_RIT.c(64): warning:  #223-D: function "enable_timer" declared implicitly
+  					enable_timer(1);
+RIT\IRQ_RIT.c: 1 warning, 0 errors
+compiling lib_RIT.c...
+compiling lib_led.c...
+compiling IRQ_CAN.c...
+compiling lib_CAN.c...
+compiling HzLib.c...
+compiling myfunct.c...
+myfunct\myfunct.c(442): warning:  #223-D: function "sprintf" declared implicitly
+  						sprintf(wall_in_char,"%4d",walls[player]);
+myfunct\myfunct.c(466): warning:  #111-D: statement is unreachable
+  						break;
+myfunct\myfunct.c(520): warning:  #940-D: missing return statement at end of non-void function "moveWall" 
+  }
+myfunct\myfunct.c(587): warning:  #223-D: function "sprintf" declared implicitly
+  				sprintf(win,"player %d win",player+1);
+myfunct\myfunct.c(594): warning:  #223-D: function "sprintf" declared implicitly
+  				sprintf(win,"player %d win",player+1);
+myfunct\myfunct.c(967): warning:  #177-D: variable "startGameText"  was declared but never referenced
+  uint8_t *startGameText ;
+myfunct\myfunct.c: 6 warnings, 0 errors
+compiling GLCD.c...
+GLCD\GLCD.c(726): warning:  #177-D: variable "startGameText"  was declared but never referenced
+  	  uint8_t *startGameText ;
+GLCD\GLCD.c(727): warning:  #177-D: variable "startGameTextLength"  was declared but never referenced
+  		uint16_t startGameTextLength = 0;
+GLCD\GLCD.c(728): warning:  #177-D: variable "startGameTextX"  was declared but never referenced
+  		uint16_t startGameTextX =0;
+GLCD\GLCD.c(729): warning:  #177-D: variable "startGameTextY"  was declared but never referenced
+  		uint16_t startGameTextY =0;
+GLCD\GLCD.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=39590 RO-data=1842 RW-data=196 ZI-data=6236  
+".\sample.axf" - 0 Error(s), 14 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.LPC1700_DFP.2.7.1.pack
+                Keil.LPC1700_DFP.2.7.1
+                NXP LPC1700 Series Device Support, Drivers and Examples for MCB1700 and LPC1788-32
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Target_1
+  C:\Users\alein\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  C:\Users\alein\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
