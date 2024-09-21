@@ -1,0 +1,15 @@
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/CMakeFiles/SECubeConnector.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L0/CMakeFiles/L0.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L0/CMakeFiles/edit_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L0/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L1/CMakeFiles/L1.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L1/CMakeFiles/edit_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sources/L1/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sefile/CMakeFiles/SEfile.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sefile/CMakeFiles/edit_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sefile/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sqlite/CMakeFiles/SEqlite.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sqlite/CMakeFiles/edit_cache.dir
+/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug/sqlite/CMakeFiles/rebuild_cache.dir

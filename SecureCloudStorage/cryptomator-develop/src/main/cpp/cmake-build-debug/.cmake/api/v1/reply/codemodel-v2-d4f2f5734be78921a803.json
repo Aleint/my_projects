@@ -1,0 +1,210 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "sources/L0",
+					"jsonFile" : "directory-sources.L0-Debug-54a5af6290ea707e0d34.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "sources/L0",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "sources/L1",
+					"jsonFile" : "directory-sources.L1-Debug-2096c3c77b04d38a289b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "sources/L1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "sefile",
+					"jsonFile" : "directory-sefile-Debug-0564a66124349b5ebe40.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "sefile",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "sqlite",
+					"jsonFile" : "directory-sqlite-Debug-f9ede03999463e904770.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "sqlite",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "L0",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "L1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "SEfile",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "SEqlite",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "L0::@7420f27887093ecab399",
+					"jsonFile" : "target-L0-Debug-7218baabedc4b33d5b32.json",
+					"name" : "L0",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "L1::@2b6881b7de50948f09c9",
+					"jsonFile" : "target-L1-Debug-77925abd80cee1ea06a4.json",
+					"name" : "L1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SECubeConnector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SECubeConnector-Debug-51578a6b5301990eda83.json",
+					"name" : "SECubeConnector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SEfile::@3a6a358413ec9e55d435",
+					"jsonFile" : "target-SEfile-Debug-7d54566091f4c5003f91.json",
+					"name" : "SEfile",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "SEqlite::@963a88636d4c9cc3f011",
+					"jsonFile" : "target-SEqlite-Debug-6a3326f376fb7f6e8d35.json",
+					"name" : "SEqlite",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp/cmake-build-debug",
+		"source" : "/home/lorenzo/Desktop/group_8_project_delivery/cryptomator-develop/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
