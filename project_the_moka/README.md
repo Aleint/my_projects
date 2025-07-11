@@ -38,5 +38,5 @@ The work encompassed backend development to handle complex authentication logic,
 * **DevOps & Security**: Docker, Nginx, OpenSSL, Let's Encrypt
 * **API Specification**: Swagger (OpenAPI)
 
-## ⚠️ Disclaimer
+### Disclaimer
 Please note: The source code for this project is proprietary and cannot be shared publicly. This README serves as a technical overview of the project's architecture and my contributions.

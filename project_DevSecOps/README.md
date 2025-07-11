@@ -32,5 +32,5 @@ The project is structured into the following phases:
 * **Core Concepts**: ApiOps, DevSecOps, Automation, Infrastructure as Code (IaC), Log Management, Compliance
 * **Platforms & Tools**: Microsoft Azure, Azure API Management, Azure DevOps, GitHub/GitLab
 
-## ⚠️ Disclaimer
+### Disclaimer
 Please note: As this is a corporate and academic project, the source code is proprietary and cannot be shared publicly. This README serves as a high-level overview of the project's goals, architecture, and progress.
