@@ -8,6 +8,6 @@ This repository is organized by project, with each project contained in its own 
 
 ## Contact Information
 
-For any questions or to connect, please find my contact information below.
+For any questions or to connect, please find my contact information below:
 
 * **LinkedIn:** https://www.linkedin.com/in/alekos-i-48bbb0226
